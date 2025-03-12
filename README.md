@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @kryeon
 - 👀 I’m interested in 
 - 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...???
 - 📫 How to reach me ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She/ Her
+- ⚡ Fun fact: Nothing
 
 <!---
 kryeon/kryeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
