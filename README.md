@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kryeon
 - 👀 I’m interested in 
 - 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on ...???
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... 
 - 😄 Pronouns: She/ Her
 - ⚡ Fun fact: Hmm...
